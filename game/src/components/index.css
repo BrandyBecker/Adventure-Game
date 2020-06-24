@@ -2,8 +2,8 @@
     text-align: center;
     padding: 3rem;
     background-image: linear-gradient(0, #dbc2cf 0%, #a06583 74%);
-    padding-top: 8.5rem;
-    padding-bottom: 8.5rem;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
 }
 .box{
     background-color: #a06583;
@@ -18,7 +18,7 @@
     padding-right: 5rem;
     font-size: 1.2rem;
 }
-h3{
+.title{
     font-style: italic;
     font-size: 1.5rem;
 }

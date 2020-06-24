@@ -1,8 +1,11 @@
 import React from 'react';
 
 function Game() {
+
+  const lives = 9
+
   return (
-    <div className="home">
+    <div className="game">
       <p>Game</p>
     </div>
   );
